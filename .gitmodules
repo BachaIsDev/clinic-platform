@@ -1,6 +1,6 @@
 [submodule "registration"]
 	path = registration
-	url = ./registration
+	url = ../registration
 [submodule "vet-clinic"]
 	path = vet-clinic
-	url = ./vet-clinic
+	url = ../vet-clinic
